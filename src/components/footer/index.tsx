@@ -16,7 +16,7 @@ const Footer = () => {
         <S.Mention>
           Developed and maintained by{' '}
           <a
-            href="https://github.com/sulaiman-coder"
+            href="https://github.com/gitworkflows"
             target="_blank"
             rel="noreferrer"
           >

@@ -20,7 +20,7 @@ const CanvasErrorFallback = () => {
         <p>
           If the issue persists, please create a new issue on the{' '}
           <a
-            href="https://github.com/sulaiman-coder/profiler/issues/new/choose"
+            href="https://github.com/gitworkflows/profiler/issues/new/choose"
             target="_blank"
             rel="noreferrer"
           >
@@ -33,7 +33,7 @@ const CanvasErrorFallback = () => {
 
       <S.Wrapper>
         <a
-          href="https://github.com/sulaiman-coder/profiler/issues/new/choose"
+          href="https://github.com/gitworkflows/profiler/issues/new/choose"
           target="_blank"
           rel="noreferrer"
         >

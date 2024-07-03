@@ -4,7 +4,7 @@
   "description": "Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Md Sulaiman",
+  "author": "gitworkflows",
   "type": "module",
   "keywords": [
     "github",
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sulaiman-coder/profiler.git"
+    "url": "https://github.com/gitworkflows/profiler.git"
   },
   "bugs": {
-    "url": "https://github.com/sulaiman-coder/profiler/issues"
+    "url": "https://github.com/gitworkflows/profiler/issues"
   },
   "private": true,
   "scripts": {
@@ -35,6 +35,7 @@
   "dependencies": {
     "@styled-icons/feather": "^10.34.0",
     "@vercel/analytics": "^0.1.11",
+    "caniuse-lite": "^1.0.30001639",
     "framer-motion": "^6.2.4",
     "html-prettify": "^1.0.5",
     "next": "^12.1.6",

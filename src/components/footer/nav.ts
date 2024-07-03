@@ -10,7 +10,7 @@ const navItems: NavItem[] = [
   {
     label: 'Github',
     props: {
-      href: 'https://github.com/sulaiman-coder/profiler',
+      href: 'https://github.com/gitworkflows/profiler',
       target: '_blank',
       rel: 'noreferrer',
     },

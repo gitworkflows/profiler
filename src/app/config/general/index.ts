@@ -21,7 +21,7 @@ const general = {
 
       socials: {
         iconBaseUrl:
-          'https://raw.githubusercontent.com/sulaiman-coder/profiler/master/src/assets/icons/social',
+          'https://raw.githubusercontent.com/gitworkflows/profiler/master/src/assets/icons/social',
         badgeBaseUrl: 'https://img.shields.io/static/v1',
       },
 
@@ -48,7 +48,7 @@ const general = {
 
     preview: {
       user: {
-        github: 'sulaiman-coder',
+        github: 'gitworkflows',
       },
     },
   },

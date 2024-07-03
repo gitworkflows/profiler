@@ -47,7 +47,7 @@ const Welcome = () => {
         <p>
           If you like it, give the{' '}
           <a
-            href="https://github.com/sulaiman-coder/profiler"
+            href="https://github.com/gitworkflows/profiler"
             target="_blank"
             rel="noreferrer"
           >

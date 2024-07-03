@@ -1,6 +1,6 @@
 const templates = [
   {
-    inspired: 'https://github.com/sulaiman-coder',
+    inspired: 'https://github.com/gitworkflows',
     template: [
       {
         type: 'text',

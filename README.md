@@ -10,32 +10,32 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/sulaiman-coder/profiler/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/sulaiman-coder/profiler?" alt="Badge showing the total of project forks"/>
+  <a href="https://github.com/gitworkflows/profiler/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/gitworkflows/profiler?" alt="Badge showing the total of project forks"/>
   </a>
 
-  <a href="https://github.com/sulaiman-coder/profiler/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/sulaiman-coder/profiler?" alt="Badge showing the total of project stars"/>
+  <a href="https://github.com/gitworkflows/profiler/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/gitworkflows/profiler?" alt="Badge showing the total of project stars"/>
   </a>
 
-  <a href="https://github.com/sulaiman-coder/profiler/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/sulaiman-coder/profiler?" alt="Badge showing average commit frequency per month"/>
+  <a href="https://github.com/gitworkflows/profiler/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/gitworkflows/profiler?" alt="Badge showing average commit frequency per month"/>
   </a>
 
-  <a href="https://github.com/sulaiman-coder/profiler/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/sulaiman-coder/profiler?" alt="Badge showing when the last commit was made"/>
+  <a href="https://github.com/gitworkflows/profiler/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/gitworkflows/profiler?" alt="Badge showing when the last commit was made"/>
   </a>
 
-  <a href="https://github.com/sulaiman-coder/profiler/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/sulaiman-coder/profiler?" alt="Badge showing the total of project issues"/>
+  <a href="https://github.com/gitworkflows/profiler/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/gitworkflows/profiler?" alt="Badge showing the total of project issues"/>
   </a>
 
-  <a href="https://github.com/sulaiman-coder/profiler/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/sulaiman-coder/profiler?" alt="Badge showing the total of project pull-requests"/>
+  <a href="https://github.com/gitworkflows/profiler/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/gitworkflows/profiler?" alt="Badge showing the total of project pull-requests"/>
   </a>
 
-  <a href="https://github.com/sulaiman-coder/profiler/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/sulaiman-coder/profiler?color=f85149">
+  <a href="https://github.com/gitworkflows/profiler/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/gitworkflows/profiler?color=f85149">
   </a>
 </p>
 
@@ -45,7 +45,7 @@
   <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/sulaiman-coder/profiler/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/gitworkflows/profiler/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </p>
 
 ## :dart: About ##
@@ -63,11 +63,11 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
 ## :rocket: Main Technologies ##
 
 <a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/sulaiman-coder/sulaiman-coder/master/assets/next-logo.svg">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/gitworkflows/gitworkflows/master/assets/next-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/sulaiman-coder/sulaiman-coder/master/assets/typescript-logo.svg">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/gitworkflows/gitworkflows/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://styled-components.com">
@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
 </a> &#xa0; &#xa0;
 
 <a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/sulaiman-coder/sulaiman-coder/master/assets/jest-logo.svg">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/gitworkflows/gitworkflows/master/assets/jest-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://eslint.org">
@@ -111,7 +111,7 @@ Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) 
 
 ```bash
 # Clone this project
-$ git clone https://github.com/sulaiman-coder/profiler
+$ git clone https://github.com/gitworkflows/profiler
 
 # Access
 $ cd profiler
@@ -138,10 +138,10 @@ $ yarn dev
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/sulaiman-coder" target="_blank">Md Sulaiman</a>
+Made with :heart: by <a href="https://github.com/gitworkflows" target="_blank">Md Sulaiman</a>
 
 &#xa0;
 
 <a href="#top">Back to top</a>
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=sulaiman-coder.vscode-simple-readme)*
+*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=gitworkflows.vscode-simple-readme)*
