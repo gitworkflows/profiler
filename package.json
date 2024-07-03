@@ -38,7 +38,7 @@
     "caniuse-lite": "^1.0.30001639",
     "framer-motion": "^6.2.4",
     "html-prettify": "^1.0.5",
-    "next": "^12.1.6",
+    "next": "^14.2.4",
     "next-compose-plugins": "^2.2.1",
     "next-pwa": "^5.0.3",
     "prismjs": "^1.27.0",
